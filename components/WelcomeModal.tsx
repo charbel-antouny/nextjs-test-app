@@ -28,7 +28,7 @@ const WelcomeModal: React.FC = () => {
           <ModalBody>
             <Text fontSize='md'>
               Using this portal, you can view and set your username and job
-              title. Use the buttons to get started!
+              title. Use the links to get started!
             </Text>
           </ModalBody>
           <ModalFooter>
