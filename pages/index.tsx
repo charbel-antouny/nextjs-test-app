@@ -22,10 +22,10 @@ export default function Home({ characters }: HomeProps) {
   return (
     <>
       <Head>
-        <title>Charbel Antouny Leonardo</title>
+        <title>Charbel Antouny Test App</title>
         <meta
           name='description'
-          content='Test app for Leonardo by Charbel Antouny'
+          content='Next.js test app by Charbel Antouny'
         />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link rel='icon' href='/favicon.ico' />

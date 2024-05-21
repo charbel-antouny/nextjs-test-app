@@ -23,7 +23,7 @@ const WelcomeModal: React.FC = () => {
       <Modal isOpen={isOpen} onClose={onClose}>
         <ModalOverlay />
         <ModalContent>
-          <ModalHeader>Welcome to Leonardo!</ModalHeader>
+          <ModalHeader>Welcome!</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
             <Text fontSize='md'>
